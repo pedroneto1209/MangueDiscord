@@ -1,7 +1,7 @@
 import discord
 from vote import Vote
 
-TOKEN = 'yourtokenhere'
+TOKEN = 'NzI3MzA4Mjk2MDA4MjM3MjE4.Xvucpw.uIZQynYvJmFyOzQfxf9hekw-QVQ'
 
 client = discord.Client()
 
